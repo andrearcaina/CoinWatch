@@ -16,7 +16,7 @@ const Navbar = () => {
     return (
         <div className="nav-container">
             <div className="logo-container">
-                <Avatar />
+                <Avatar src={icon} size="large" />
                 <Typography.Title level={2} className="logo">
                     <Link to="/">
                         CoinWatch
@@ -48,4 +48,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar
+export default Navbar;
