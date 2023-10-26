@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A React.js application which provides current data on the crypto market and news. Powered by RapidAPI's.</h4>
+<h4 align="center">A React.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by RapidAPI's.</h4>
 
 <hr>
 
