@@ -11,12 +11,12 @@
 
 <hr>
 
-## 🚀 Built with
+## Built with
 
 [![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/) [![Redux](https://img.shields.io/badge/-REDUX-61DAFB?logo=redux&color=purple&logoColor=white&style=flat)](https://react-redux.js.org/)
 
 
-## 🚀 Dependencies Used
+## Dependencies Used
 <p>
   <img src="https://img.shields.io/badge/@ant--design/icons-v5.2.6-3CCF4E"> 
   <img scr="https://img.shields.io/badge/react--router--dom-v6.17.0-3CCF4E">
@@ -33,7 +33,7 @@
 
 <hr>
 
-## 🚀 How To Use
+## How To Use
 
 To clone and run this application, you'll need: 
 * Coinranking [API](https://rapidapi.com/)
