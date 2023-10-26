@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="crypto-app/src/images/cryptocurrency.png" alt="Covid-19 Tracker" width="200" style="border-radius:10px">
+  <img src="crypto-app/src/images/cryptocurrency.png" alt="logo" width="200" style="border-radius:10px">
   <br>
   <br>
   CoinWatch
