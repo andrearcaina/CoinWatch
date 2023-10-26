@@ -62,7 +62,7 @@
 ## How To Use
 
 To clone and run this application, you'll need: 
-* Coinranking [API](https://rapidapi.com/)
+* Coinranking & Bing News [API](https://rapidapi.com/)
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
 
