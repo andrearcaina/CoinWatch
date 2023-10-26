@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
+import { Provider } from 'react-redux';
 
 import App from './App';
+import store from './app/store';
 import 'antd/dist/reset.css';
 import reportWebVitals from './reportWebVitals';
 
@@ -11,7 +13,9 @@ const ROOT = ReactDOM.createRoot(document.getElementById('root'));
 
 ROOT.render(
     <Router>
-        <App />
+        <Provider store={store}>
+            <App />
+        </Provider>
     </Router>
 );
 
