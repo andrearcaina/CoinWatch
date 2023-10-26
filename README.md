@@ -13,7 +13,8 @@
 
 ## 🚀 Built with
 
-* [![React][React.js]][React-url]
+[![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/) [![Redux](https://img.shields.io/badge/-REDUX-61DAFB?logo=redux&color=purple&logoColor=white&style=flat)](https://react-redux.js.org/)
+
 
 ## 🚀 Dependencies Used
 <p>
