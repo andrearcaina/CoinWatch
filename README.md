@@ -83,3 +83,15 @@ $ npm start
 ```
 
 <hr>
+
+## What did I learn?
+Ultimately, I learned how to use React.js, Redux, and creating a react app as a whole.
+There's a whole thought process to it. If you mess up even installed the dependencies, you may mess the entire project and restart again (like I did). 
+The good thing is, after restarting, I learned how to sucessfully install and utilize react to create a react app.
+I can certainly say that this process of creating a react app can be transferred into different projects. 
+Another thing is implementing API's and fetching data from current API's. I've learnt more from React-Redux and I can see
+how much of a powerful tool it is in modern web applications. 
+
+Overall, the project was hard to create. There were a lot of things needed to implement, and a lot of code that was 
+updated over the years (in React.js). There were so many bugs while testing, and a lot of problems I had to redo. 
+Besides that, I've learnt more about cryptocurrencies through the news and even the market (how it works). Do I know how to invest still? Probably not.
