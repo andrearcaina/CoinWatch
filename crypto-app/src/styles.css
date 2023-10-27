@@ -51,6 +51,12 @@ a:hover{
     align-items: center;
     width: 100%;
 }
+
+.avatar {
+    width: 5rem !important;
+    height: 5rem !important;
+}
+
 .logo{
     margin:0 0 0 15px;
 }

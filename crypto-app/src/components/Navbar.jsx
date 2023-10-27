@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <div className="nav-container">
             <div className="logo-container">
-                <Avatar src={icon} size="large" />
+                <Avatar className="avatar" shape="circle" src={icon} />
                 <Tp.Title level={2} className="logo">
                     <Link to="/">
                         CoinWatch
