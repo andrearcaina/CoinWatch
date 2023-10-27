@@ -1,6 +1,6 @@
 // .jsx differentiates js files vs component files
 import React from 'react';
-import { Button, Menu, Typography, Avatar } from 'antd';
+import { Button, Menu, Typography as Tp, Avatar } from 'antd';
 import { Link } from 'react-router-dom';
 import { HomeOutlined, MoneyCollectOutlined, BulbOutlined, FundOutlined, MenuOutlined } from '@ant-design/icons';
 
@@ -11,16 +11,17 @@ const Navbar = () => {
         <div className="nav-container">
             <div className="logo-container">
                 <Avatar src={icon} size="large" />
-                <Typography.Title level={2} className="logo">
+                <Tp.Title level={2} className="logo">
                     <Link to="/">
                         CoinWatch
                     </Link>
-                </Typography.Title>
+                </Tp.Title>
                 
                 {/*<Button className="menu-control-container">
                     
                 </Button>*/}
             </div>
+            
             <Menu theme="dark">
                 <Menu.Item icon={<HomeOutlined />}>
                     <Link to="/">Home</Link>
@@ -30,12 +31,8 @@ const Navbar = () => {
                     <Link to="/cryptocurrencies">Cryptocurrencies</Link>
                 </Menu.Item>
 
-                <Menu.Item icon={<MoneyCollectOutlined />}>
-                    <Link to="/exchanges">Exchanges</Link>
-                </Menu.Item>
-
                 <Menu.Item icon={<BulbOutlined />}>
-                    <Link to="/">News</Link>
+                    <Link to="/news">News</Link>
                 </Menu.Item>
             </Menu>
         </div>
