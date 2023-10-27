@@ -24,7 +24,7 @@ a:hover{
 
 .navbar{
     flex: 0.2;
-    background-color: rgb(0, 21, 41);
+    background-color: rgb(6, 41, 0);
 }
 
 .main{
@@ -41,11 +41,11 @@ a:hover{
     margin: 10px;
     height: 100vh;
     margin: 0px;
-    background-color: rgb(0, 21, 41);
+    background-color: rgb(6, 41, 0);
 }
 
 .logo-container{
-    background-color: #001529;
+    background-color: rgb(6, 41, 0);
     display: flex;
     padding: 20px;
     align-items: center;
@@ -370,9 +370,22 @@ width: 70%;
 }
 
 .footer {
-    background-color: #001529;
+    background-color: rgb(6, 41, 0);
     display: flex;
     flex-direction: column;
     padding: 20px;
     align-items: center;
+}
+
+.ant-menu {
+    background-color: rgb(6, 41, 0) !important;
+}
+
+.ant-menu-item {
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+.ant-menu-item-selected {
+    background-color: rgba(67, 175, 49, 0.74) !important;
 }
