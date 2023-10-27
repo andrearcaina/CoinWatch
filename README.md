@@ -1,10 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="crypto-app/src/images/cryptocurrencypreview.png" alt="logo" width="200" style="border-radius:10px">
-  <br>
-  <br>
-  CoinWatch
-  <br>
+  <img src="crypto-app/src/images/cryptocurrencypreview.jpeg" alt="logo" width="80%">
 </h1>
 
 <h4 align="center">A React.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by RapidAPI's.</h4>
