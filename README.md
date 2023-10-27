@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/millify-v6.1.0-3CCF4E">
   <img src="https://img.shields.io/badge/moment-v2.29.4-3CCF4E">
 </p>
-<br>
 
 <hr>
 
@@ -95,3 +94,5 @@ how much of a powerful tool it is in modern web applications.
 Overall, the project was hard to create. There were a lot of things needed to implement, and a lot of code that was 
 updated over the years (in React.js). There were so many bugs while testing, and a lot of problems I had to redo. 
 Besides that, I've learnt more about cryptocurrencies through the news and even the market (how it works). Do I know how to invest still? Probably not.
+
+<hr>
