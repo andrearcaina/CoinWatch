@@ -4,7 +4,7 @@ import { Button, Menu, Typography as Tp, Avatar } from 'antd';
 import { Link } from 'react-router-dom';
 import { HomeOutlined, MoneyCollectOutlined, BulbOutlined, FundOutlined, MenuOutlined } from '@ant-design/icons';
 
-import icon from '../images/cryptocurrency.png';
+import icon from '../images/cryptocurrencyicon.png';
 
 const Navbar = () => {
     return (
