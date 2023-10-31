@@ -80,7 +80,7 @@ $ npm start
 
 ## What did I learn?
 Ultimately, I learned how to use React.js, Redux, and creating a react app as a whole.
-There's a whole thought process to it. If you mess up even installed the dependencies, you may mess the entire project and restart again (like I did). 
+There's a whole thought process to it. If you mess up even installing the dependencies, you may mess the entire project and restart again (like I did). 
 The good thing is, after restarting, I learned how to sucessfully install and utilize react to create a react app.
 I can certainly say that this process of creating a react app can be transferred into different projects. 
 Another thing is implementing API's and fetching data from current API's. I've learnt more from React-Redux and I can see
