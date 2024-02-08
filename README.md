@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="crypto-app/src/images/cryptocurrencypreview.jpeg" alt="logo" width="80%">
+  <img src="public/images/cryptocurrencypreview.jpeg" alt="logo" width="80%">
 </h1>
 
 <h4 align="center">A Next.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by RapidAPI's.</h4>
