@@ -2,13 +2,15 @@
   <img src="crypto-app/src/images/cryptocurrencypreview.jpeg" alt="logo" width="80%">
 </h1>
 
-<h4 align="center">A Next.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by RapidAPI's.</h4>
+<h4 align="center">A Next.js and Express.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by RapidAPI's.</h4>
 
 <hr>
 
-## Built with
+## Tech Stack + Languages
 
-[![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/) [![Redux](https://img.shields.io/badge/-REDUX-61DAFB?logo=redux&color=purple&logoColor=white&style=flat)](https://react-redux.js.org/)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NEXT.JS](https://img.shields.io/badge/NEXT-0769AD?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Languages
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
