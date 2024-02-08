@@ -14,6 +14,8 @@ const Homepage = () => {
     const globalStats = data?.data?.stats;
 
     if(isFetching) return <Loader/>;
+    
+    if (!globalStats) return null; // or handle loading state here
 
     return (
         <>
