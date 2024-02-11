@@ -1,1 +1,2 @@
-// later for components
+'use client';
+export { Navbar } from './navbar';
