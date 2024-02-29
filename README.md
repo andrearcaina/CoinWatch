@@ -2,7 +2,7 @@
   <img src="public/images/cryptocurrencypreview.jpeg" alt="logo" width="80%">
 </h1>
 
-<h4 align="center">A Next.js application which provides current data on the crypto market, prices, exchanges, and daily news. Powered by CryptoCompare.</h4>
+<h4 align="center">A TypeScript Wrapper and CLI Tool powered by CryptoCompare and compiled to Next.js!</h4>
 
 <hr>
 
