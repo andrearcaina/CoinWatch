@@ -1,7 +1,7 @@
 import { Command } from 'commander';
-import { fetchCryptoData } from '../api/fetchCryptoCompare';
+import { fetchCryptoPrice } from '../api/cryptoPrices';
 
-export function fetchPrice(program: Command) {
+export function fetchPrice(program: Command): undefined {
     program
         .command('fetchprice')
         .alias('fp')
@@ -10,7 +10,7 @@ export function fetchPrice(program: Command) {
         .requiredOption('--curr <type>', 'The currency symbol')
         .action((options) => {
             if (options.coin && options.curr) {
-                fetchCryptoData(options.coin, [options.curr])
+                fetchCryptoPrice(options.coin, [options.curr])
                     .then((data) => {
                         if (data) {
                             console.log(data);

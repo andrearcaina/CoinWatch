@@ -1,7 +1,7 @@
 import { Command } from 'commander';
 import figlet from 'figlet';
 
-export function ascii(program: Command) {
+export function ascii(program: Command): undefined {
     program
         .command('ascii')
         .alias('a')
